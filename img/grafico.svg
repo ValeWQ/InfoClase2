@@ -1,1 +1,342 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="805" height="600"><rect width="805" height="600" x="0" y="0" fill="#FFFFFF" id="backgorund"/><g transform="translate(10,10)" id="visualization"><g><rect x="780" y="1.1368683772161603e-13" height="2.155472836035756" width="5" fill="black"><title>Belarus: 1949400</title></rect><rect x="780" y="7.1554728360358695" height="2.3414810528420276" width="5" fill="black"><title>Cuba: 2117625</title></rect><rect x="780" y="14.496953888877897" height="2.4782807115817036" width="5" fill="black"><title>France: 2241346</title></rect><rect x="780" y="21.9752346004596" height="3.1778551547832876" width="5" fill="black"><title>Italy: 2874038</title></rect><rect x="780" y="30.15308975524289" height="3.2170559234587586" width="5" fill="black"><title>Ukraine: 2909491</title></rect><rect x="780" y="38.37014567870165" height="3.377136325279821" width="5" fill="black"><title>Argentina: 3054267</title></rect><rect x="780" y="46.74728200398147" height="3.49983485286225" width="5" fill="black"><title>Spain: 3165235</title></rect><rect x="780" y="55.24711685684372" height="3.637662822742527" width="5" fill="black"><title>Venezuela: 3289886</title></rect><rect x="780" y="63.884779679586245" height="3.938725787652686" width="5" fill="black"><title>Germany: 3562166</title></rect><rect x="780" y="72.82350546723893" height="4.0579590172623625" width="5" fill="black"><title>South Africa: 3670000</title></rect><rect x="780" y="81.8814644845013" height="4.561057478530586" width="5" fill="black"><title>Ivory Coast: 4125000</title></rect><rect x="780" y="91.44252196303188" height="4.825920574158374" width="5" fill="black"><title>Tanzania: 4364541</title></rect><rect x="780" y="101.26844253719025" height="5.063638467095814" width="5" fill="black"><title>Canada: 4579532</title></rect><rect x="780" y="111.33208100428607" height="5.276452433344957" width="5" fill="black"><title>Angola: 4772000</title></rect><rect x="780" y="121.60853343763102" height="5.718736794899428" width="5" fill="black"><title>Sudan: 5172000</title></rect><rect x="780" y="132.32727023253045" height="6.089461758176185" width="5" fill="black"><title>Chile: 5507282</title></rect><rect x="780" y="143.41673199070664" height="7.016841396061864" width="5" fill="black"><title>Somalia: 6346000</title></rect><rect x="780" y="155.4335733867685" height="8.693405408273748" width="5" fill="black"><title>Colombia: 7862277</title></rect><rect x="780" y="169.12697879504225" height="9.590619041279524" width="5" fill="black"><title>United Kingdom: 8673713</title></rect><rect x="780" y="183.71759783632177" height="9.679393252619775" width="5" fill="black"><title>Democratic Republic of the Congo: 8754000</title></rect><rect x="780" y="198.39699108894155" height="9.834648332056304" width="5" fill="black"><title>Peru: 8894412</title></rect><rect x="780" y="213.23163942099785" height="11.140380127033694" width="5" fill="black"><title>Indonesia: 10075310</title></rect><rect x="780" y="229.37201954803155" height="11.71647872788742" width="5" fill="black"><title>Mexico: 10596331</title></rect><rect x="780" y="246.08849827591897" height="14.942283036017756" width="5" fill="black"><title>Japan: 13513734</title></rect><rect x="780" y="266.0307813119367" height="15.508309716247936" width="5" fill="black"><title>Turkey: 14025646</title></rect><rect x="780" y="286.53909102818466" height="17.01467938900089" width="5" fill="black"><title>Egypt: 15388000</title></rect><rect x="780" y="308.55377041718555" height="19.411657177819848" width="5" fill="black"><title>Russia: 17555816</title></rect><rect x="780" y="332.9654275950054" height="19.436186268511676" width="5" fill="black"><title>Nigeria: 17578000</title></rect><rect x="780" y="357.40161386351707" height="21.12626538510176" width="5" fill="black"><title>United States: 19106500</title></rect><rect x="780" y="383.52787924861883" height="25.984206241325808" width="5" fill="black"><title>Pakistan: 23500000</title></rect><rect x="780" y="414.51208548994464" height="29.71217800214322" width="5" fill="black"><title>Brazil: 26871561</title></rect><rect x="780" y="449.22426349208786" height="32.320276913817565" width="5" fill="black"><title>India: 29230314</title></rect><rect x="0" y="69.99999999999994" height="40.247863632926965" width="5" fill="black"><title>North America: 36399988</title></rect><rect x="0" y="115.24786363292691" height="61.34449264867192" width="5" fill="black"><title>South America: 55479685</title></rect><rect x="0" y="181.59235628159882" height="62.977811201721806" width="5" fill="black"><title>Europe: 56956851</title></rect><rect x="0" y="249.57016748332063" height="77.58722660438997" width="5" fill="black"><title>Africa: 70169541</title></rect><rect x="780" y="486.5445404059054" height="93.45545959409458" width="5" fill="black"><title>China: 84520700</title></rect><rect x="0" y="332.1573940877106" height="177.8426059122894" width="5" fill="black"><title>Asia: 160840058</title></rect></g><g fill="none" stroke-opacity="1"><g style="mix-blend-mode: multiply;"><path d="M5,463.27227020295277C392.5,463.27227020295277,392.5,533.2722702029528,780,533.2722702029528" stroke="#ffa46f" stroke-width="93.45545959409463"/><title>Asia → China: 84520700</title></g><g style="mix-blend-mode: multiply;"><path d="M5,371.2321603714249C392.5,371.2321603714249,392.5,396.5199823692817,780,396.5199823692817" stroke="#ffa46f" stroke-width="25.984206241325783"/><title>Asia → Pakistan: 23500000</title></g><g style="mix-blend-mode: multiply;"><path d="M5,400.38440194899664C392.5,400.38440194899664,392.5,465.38440194899664,780,465.38440194899664" stroke="#ffa46f" stroke-width="32.32027691381755"/><title>Asia → India: 29230314</title></g><g style="mix-blend-mode: multiply;"><path d="M5,350.76891573275316C392.5,350.76891573275316,392.5,253.55963979392783,780,253.55963979392783" stroke="#ffa46f" stroke-width="14.94228303601772"/><title>Asia → Japan: 13513734</title></g><g style="mix-blend-mode: multiply;"><path d="M5,337.72758415122746C392.5,337.72758415122746,392.5,218.8018294845147,780,218.8018294845147" stroke="#ffa46f" stroke-width="11.140380127033705"/><title>Asia → Indonesia: 10075310</title></g><g style="mix-blend-mode: multiply;"><path d="M5,317.4393009534548C392.5,317.4393009534548,392.5,342.68352072926126,780,342.68352072926126" stroke="#fe7bb1" stroke-width="19.436186268511683"/><title>Africa → Nigeria: 17578000</title></g><g style="mix-blend-mode: multiply;"><path d="M5,299.2138681246985C392.5,299.2138681246985,392.5,295.0464307226851,780,295.0464307226851" stroke="#fe7bb1" stroke-width="17.0146793890009"/><title>Africa → Egypt: 15388000</title></g><g style="mix-blend-mode: multiply;"><path d="M5,285.8668318038881C392.5,285.8668318038881,392.5,188.5572944626317,780,188.5572944626317" stroke="#fe7bb1" stroke-width="9.679393252619825"/><title>Africa → Democratic Republic of the Congo: 8754000</title></g><g style="mix-blend-mode: multiply;"><path d="M5,277.51871447954727C392.5,277.51871447954727,392.5,146.92515268873757,780,146.92515268873757" stroke="#fe7bb1" stroke-width="7.016841396061848"/><title>Africa → Somalia: 6346000</title></g><g style="mix-blend-mode: multiply;"><path d="M5,271.1509253840666C392.5,271.1509253840666,392.5,124.46790183508075,780,124.46790183508075" stroke="#fe7bb1" stroke-width="5.718736794899445"/><title>Africa → Sudan: 5172000</title></g><g style="mix-blend-mode: multiply;"><path d="M5,265.65333076994443C392.5,265.65333076994443,392.5,113.97030722095855,780,113.97030722095855" stroke="#fe7bb1" stroke-width="5.276452433344963"/><title>Africa → Angola: 4772000</title></g><g style="mix-blend-mode: multiply;"><path d="M5,260.6021442661928C392.5,260.6021442661928,392.5,93.85548225011108,780,93.85548225011108" stroke="#fe7bb1" stroke-width="4.825920574158395"/><title>Africa → Tanzania: 4364541</title></g><g style="mix-blend-mode: multiply;"><path d="M5,255.9086552398483C392.5,255.9086552398483,392.5,84.16199322376659,780,84.16199322376659" stroke="#fe7bb1" stroke-width="4.561057478530589"/><title>Africa → Ivory Coast: 4125000</title></g><g style="mix-blend-mode: multiply;"><path d="M5,251.5991469919518C392.5,251.5991469919518,392.5,74.85248497587011,780,74.85248497587011" stroke="#fe7bb1" stroke-width="4.057959017262367"/><title>Africa → South Africa: 3670000</title></g><g style="mix-blend-mode: multiply;"><path d="M5,217.40435544737684C392.5,217.40435544737684,392.5,273.7849361700607,780,273.7849361700607" stroke="#f4ee7e" stroke-width="15.508309716247915"/><title>Europe → Turkey: 14025646</title></g><g style="mix-blend-mode: multiply;"><path d="M5,234.8643388944107C392.5,234.8643388944107,392.5,318.25959900609547,780,318.25959900609547" stroke="#f4ee7e" stroke-width="19.411657177819873"/><title>Europe → Russia: 17555816</title></g><g style="mix-blend-mode: multiply;"><path d="M5,204.8548910686131C392.5,204.8548910686131,392.5,173.922288315682,780,173.922288315682" stroke="#f4ee7e" stroke-width="9.590619041279513"/><title>Europe → United Kingdom: 8673713</title></g><g style="mix-blend-mode: multiply;"><path d="M5,198.09021865414698C392.5,198.09021865414698,392.5,65.8541425734126,780,65.8541425734126" stroke="#f4ee7e" stroke-width="3.938725787652702"/><title>Europe → Germany: 3562166</title></g><g style="mix-blend-mode: multiply;"><path d="M5,194.3709383338895C392.5,194.3709383338895,392.5,48.49719943041259,780,48.49719943041259" stroke="#f4ee7e" stroke-width="3.4998348528622474"/><title>Europe → Spain: 3165235</title></g><g style="mix-blend-mode: multiply;"><path d="M5,191.01249294572898C392.5,191.01249294572898,392.5,31.761617716972275,780,31.761617716972275" stroke="#f4ee7e" stroke-width="3.217055923458774"/><title>Europe → Ukraine: 2909491</title></g><g style="mix-blend-mode: multiply;"><path d="M5,187.81503740660796C392.5,187.81503740660796,392.5,23.564162177851248,780,23.564162177851248" stroke="#f4ee7e" stroke-width="3.1778551547832965"/><title>Europe → Italy: 2874038</title></g><g style="mix-blend-mode: multiply;"><path d="M5,184.98696947342543C392.5,184.98696947342543,392.5,15.73609424466876,780,15.73609424466876" stroke="#f4ee7e" stroke-width="2.4782807115817267"/><title>Europe → France: 2241346</title></g><g style="mix-blend-mode: multiply;"><path d="M5,182.6700926996167C392.5,182.6700926996167,392.5,1.0777364180179962,780,1.0777364180179962" stroke="#f4ee7e" stroke-width="2.155472836035765"/><title>Europe → Belarus: 1949400</title></g><g style="mix-blend-mode: multiply;"><path d="M5,83.26335888388147C392.5,83.26335888388147,392.5,235.23025891197526,780,235.23025891197526" stroke="#9aebbb" stroke-width="11.716478727887399"/><title>North America → Mexico: 10596331</title></g><g style="mix-blend-mode: multiply;"><path d="M5,99.68473094037606C392.5,99.68473094037606,392.5,367.96474655606795,780,367.96474655606795" stroke="#9aebbb" stroke-width="21.126265385101746"/><title>North America → United States: 19106500</title></g><g style="mix-blend-mode: multiply;"><path d="M5,74.87330028638986C392.5,74.87330028638986,392.5,103.80026177073815,780,103.80026177073815" stroke="#9aebbb" stroke-width="5.063638467095793"/><title>North America → Canada: 4579532</title></g><g style="mix-blend-mode: multiply;"><path d="M5,71.17074052642096C392.5,71.17074052642096,392.5,8.32621336245688,780,8.32621336245688" stroke="#9aebbb" stroke-width="2.341481052842022"/><title>North America → Cuba: 2117625</title></g><g style="mix-blend-mode: multiply;"><path d="M5,161.73626728052716C392.5,161.73626728052716,392.5,429.36817449101625,780,429.36817449101625" stroke="#a7bfff" stroke-width="29.712178002143254"/><title>South America → Brazil: 26871561</title></g><g style="mix-blend-mode: multiply;"><path d="M5,141.96285411342737C392.5,141.96285411342737,392.5,203.3143152549697,780,203.3143152549697" stroke="#a7bfff" stroke-width="9.834648332056295"/><title>South America → Peru: 8894412</title></g><g style="mix-blend-mode: multiply;"><path d="M5,132.69882724326234C392.5,132.69882724326234,392.5,159.78027609090535,780,159.78027609090535" stroke="#a7bfff" stroke-width="8.693405408273708"/><title>South America → Colombia: 7862277</title></g><g style="mix-blend-mode: multiply;"><path d="M5,125.30739366003739C392.5,125.30739366003739,392.5,135.37200111161857,780,135.37200111161857" stroke="#a7bfff" stroke-width="6.089461758176219"/><title>South America → Chile: 5507282</title></g><g style="mix-blend-mode: multiply;"><path d="M5,120.44383136957799C392.5,120.44383136957799,392.5,57.065948268215,780,57.065948268215" stroke="#a7bfff" stroke-width="3.6376628227425662"/><title>South America → Venezuela: 3289886</title></g><g style="mix-blend-mode: multiply;"><path d="M5,116.9364317955668C392.5,116.9364317955668,392.5,40.05871384134155,780,40.05871384134155" stroke="#a7bfff" stroke-width="3.3771363252798032"/><title>South America → Argentina: 3054267</title></g></g><g><text x="776" y="1.0777364180179916" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Belarus</tspan></text><text x="776" y="8.326213362456883" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Cuba</tspan></text><text x="776" y="15.736094244668749" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">France</tspan></text><text x="776" y="23.564162177851244" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Italy</tspan></text><text x="776" y="31.761617716972268" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Ukraine</tspan></text><text x="776" y="40.05871384134156" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Argentina</tspan></text><text x="776" y="48.49719943041259" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Spain</tspan></text><text x="776" y="57.06594826821498" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Venezuela</tspan></text><text x="776" y="65.85414257341259" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Germany</tspan></text><text x="776" y="74.85248497587011" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">South Africa</tspan></text><text x="776" y="84.16199322376659" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Ivory Coast</tspan></text><text x="776" y="93.85548225011107" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Tanzania</tspan></text><text x="776" y="103.80026177073816" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Canada</tspan></text><text x="776" y="113.97030722095855" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Angola</tspan></text><text x="776" y="124.46790183508074" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Sudan</tspan></text><text x="776" y="135.37200111161854" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Chile</tspan></text><text x="776" y="146.92515268873757" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Somalia</tspan></text><text x="776" y="159.78027609090537" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Colombia</tspan></text><text x="776" y="173.922288315682" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">United Kingdom</tspan></text><text x="776" y="188.55729446263166" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Democratic Republic of the Congo</tspan></text><text x="776" y="203.3143152549697" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Peru</tspan></text><text x="776" y="218.8018294845147" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Indonesia</tspan></text><text x="776" y="235.23025891197526" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Mexico</tspan></text><text x="776" y="253.55963979392783" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Japan</tspan></text><text x="776" y="273.7849361700607" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Turkey</tspan></text><text x="776" y="295.0464307226851" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Egypt</tspan></text><text x="776" y="318.25959900609547" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Russia</tspan></text><text x="776" y="342.6835207292612" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Nigeria</tspan></text><text x="776" y="367.96474655606795" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">United States</tspan></text><text x="776" y="396.5199823692817" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Pakistan</tspan></text><text x="776" y="429.36817449101625" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Brazil</tspan></text><text x="776" y="465.38440194899664" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">India</tspan></text><text x="9" y="90.12393181646343" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">North America</tspan></text><text x="9" y="145.92010995726287" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">South America</tspan></text><text x="9" y="213.08126188245973" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Europe</tspan></text><text x="9" y="288.3637807855156" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Africa</tspan></text><text x="776" y="533.2722702029528" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">China</tspan></text><text x="9" y="421.0786970438553" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Asia</tspan></text></g><g><text x="782.5" y="-3.9999999999998863" text-anchor="middle" style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold;">Country</text><text x="2.5" y="65.99999999999994" text-anchor="middle" style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold;">Continent</text></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 850 650" style="enable-background:new 0 0 850 650;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#212529;}
+	.st1{fill:none;stroke:#EB7803;stroke-width:93.4555;}
+	.st2{fill:none;stroke:#EB7803;stroke-width:25.9842;}
+	.st3{fill:none;stroke:#EB7803;stroke-width:32.3203;}
+	.st4{fill:none;stroke:#EB7803;stroke-width:14.9423;}
+	.st5{fill:none;stroke:#EB7803;stroke-width:11.1404;}
+	.st6{fill:none;stroke:#EA4D93;stroke-width:19.4362;}
+	.st7{fill:none;stroke:#EA4D93;stroke-width:17.0147;}
+	.st8{fill:none;stroke:#EA4D93;stroke-width:9.6794;}
+	.st9{fill:none;stroke:#EA4D93;stroke-width:7.0168;}
+	.st10{fill:none;stroke:#EA4D93;stroke-width:5.7187;}
+	.st11{fill:none;stroke:#EA4D93;stroke-width:5.2765;}
+	.st12{fill:none;stroke:#EA4D93;stroke-width:4.8259;}
+	.st13{fill:none;stroke:#EA4D93;stroke-width:4.5611;}
+	.st14{fill:none;stroke:#EA4D93;stroke-width:4.058;}
+	.st15{fill:none;stroke:#3D68B0;stroke-width:15.5083;}
+	.st16{fill:none;stroke:#3D68B0;stroke-width:19.4117;}
+	.st17{fill:none;stroke:#3D68B0;stroke-width:9.5906;}
+	.st18{fill:none;stroke:#3D68B0;stroke-width:3.9387;}
+	.st19{fill:none;stroke:#3D68B0;stroke-width:3.4998;}
+	.st20{fill:none;stroke:#3D68B0;stroke-width:3.2171;}
+	.st21{fill:none;stroke:#3D68B0;stroke-width:3.1779;}
+	.st22{fill:none;stroke:#3D68B0;stroke-width:2.4783;}
+	.st23{fill:none;stroke:#3D68B0;stroke-width:2.1555;}
+	.st24{fill:none;stroke:#ECAF35;stroke-width:11.7165;}
+	.st25{fill:none;stroke:#ECAF35;stroke-width:21.1263;}
+	.st26{fill:none;stroke:#ECAF35;stroke-width:5.0636;}
+	.st27{fill:none;stroke:#ECAF35;stroke-width:2.3415;}
+	.st28{fill:none;stroke:#A7BFFF;stroke-width:29.7122;}
+	.st29{fill:none;stroke:#A7BFFF;stroke-width:9.8346;}
+	.st30{fill:none;stroke:#A7BFFF;stroke-width:8.6934;}
+	.st31{fill:none;stroke:#A7BFFF;stroke-width:6.0895;}
+	.st32{fill:none;stroke:#A7BFFF;stroke-width:3.6377;}
+	.st33{fill:none;stroke:#A7BFFF;stroke-width:3.3771;}
+	.st34{fill:#FFFFFF;}
+	.st35{font-family:'Arial-BoldMT';}
+	.st36{font-size:10px;}
+	.st37{font-size:12px;}
+</style>
+<rect class="st0" width="850" height="650"/>
+<g id="visualization" transform="translate(10,10)">
+	<g>
+		<rect x="802.5" y="37" width="5" height="2.2">
+		<title>Belarus: 1949400</title>
+		</rect>
+		<rect x="802.5" y="44.2" width="5" height="2.3">
+		<title>Cuba: 2117625</title>
+		</rect>
+		<rect x="802.5" y="51.5" width="5" height="2.5">
+		<title>France: 2241346</title>
+		</rect>
+		<rect x="802.5" y="59" width="5" height="3.2">
+		<title>Italy: 2874038</title>
+		</rect>
+		<rect x="802.5" y="67.2" width="5" height="3.2">
+		<title>Ukraine: 2909491</title>
+		</rect>
+		<rect x="802.5" y="75.4" width="5" height="3.4">
+		<title>Argentina: 3054267</title>
+		</rect>
+		<rect x="802.5" y="83.7" width="5" height="3.5">
+		<title>Spain: 3165235</title>
+		</rect>
+		<rect x="802.5" y="92.2" width="5" height="3.6">
+		<title>Venezuela: 3289886</title>
+		</rect>
+		<rect x="802.5" y="100.9" width="5" height="3.9">
+		<title>Germany: 3562166</title>
+		</rect>
+		<rect x="802.5" y="109.8" width="5" height="4.1">
+		<title>South Africa: 3670000</title>
+		</rect>
+		<rect x="802.5" y="118.9" width="5" height="4.6">
+		<title>Ivory Coast: 4125000</title>
+		</rect>
+		<rect x="802.5" y="128.4" width="5" height="4.8">
+		<title>Tanzania: 4364541</title>
+		</rect>
+		<rect x="802.5" y="138.3" width="5" height="5.1">
+		<title>Canada: 4579532</title>
+		</rect>
+		<rect x="802.5" y="148.3" width="5" height="5.3">
+		<title>Angola: 4772000</title>
+		</rect>
+		<rect x="802.5" y="158.6" width="5" height="5.7">
+		<title>Sudan: 5172000</title>
+		</rect>
+		<rect x="802.5" y="169.3" width="5" height="6.1">
+		<title>Chile: 5507282</title>
+		</rect>
+		<rect x="802.5" y="180.4" width="5" height="7">
+		<title>Somalia: 6346000</title>
+		</rect>
+		<rect x="802.5" y="192.4" width="5" height="8.7">
+		<title>Colombia: 7862277</title>
+		</rect>
+		<rect x="802.5" y="206.1" width="5" height="9.6">
+		<title>United Kingdom: 8673713</title>
+		</rect>
+		<rect x="802.5" y="220.7" width="5" height="9.7">
+		<title>Democratic Republic of the Congo: 8754000</title>
+		</rect>
+		<rect x="802.5" y="235.4" width="5" height="9.8">
+		<title>Peru: 8894412</title>
+		</rect>
+		<rect x="802.5" y="250.2" width="5" height="11.1">
+		<title>Indonesia: 10075310</title>
+		</rect>
+		<rect x="802.5" y="266.4" width="5" height="11.7">
+		<title>Mexico: 10596331</title>
+		</rect>
+		<rect x="802.5" y="283.1" width="5" height="14.9">
+		<title>Japan: 13513734</title>
+		</rect>
+		<rect x="802.5" y="303" width="5" height="15.5">
+		<title>Turkey: 14025646</title>
+		</rect>
+		<rect x="802.5" y="323.5" width="5" height="17">
+		<title>Egypt: 15388000</title>
+		</rect>
+		<rect x="802.5" y="345.6" width="5" height="19.4">
+		<title>Russia: 17555816</title>
+		</rect>
+		<rect x="802.5" y="370" width="5" height="19.4">
+		<title>Nigeria: 17578000</title>
+		</rect>
+		<rect x="802.5" y="394.4" width="5" height="21.1">
+		<title>United States: 19106500</title>
+		</rect>
+		<rect x="802.5" y="420.5" width="5" height="26">
+		<title>Pakistan: 23500000</title>
+		</rect>
+		<rect x="802.5" y="451.5" width="5" height="29.7">
+		<title>Brazil: 26871561</title>
+		</rect>
+		<rect x="802.5" y="486.2" width="5" height="32.3">
+		<title>India: 29230314</title>
+		</rect>
+		<rect x="22.5" y="107" width="5" height="40.2">
+		<title>North America: 36399988</title>
+		</rect>
+		<rect x="22.5" y="152.2" width="5" height="61.3">
+		<title>South America: 55479685</title>
+		</rect>
+		<rect x="22.5" y="218.6" width="5" height="63">
+		<title>Europe: 56956851</title>
+		</rect>
+		<rect x="22.5" y="286.6" width="5" height="77.6">
+		<title>Africa: 70169541</title>
+		</rect>
+		<rect x="802.5" y="523.5" width="5" height="93.5">
+		<title>China: 84520700</title>
+		</rect>
+		<rect x="22.5" y="369.2" width="5" height="177.8">
+		<title>Asia: 160840058</title>
+		</rect>
+	</g>
+	<g>
+		<g>
+			<path class="st1" d="M27.5,500.3c387.5,0,387.5,70,775,70"/>
+			<title>Asia → China: 84520700</title>
+		</g>
+		<g>
+			<path class="st2" d="M27.5,408.2c387.5,0,387.5,25.3,775,25.3"/>
+			<title>Asia → Pakistan: 23500000</title>
+		</g>
+		<g>
+			<path class="st3" d="M27.5,437.4c387.5,0,387.5,65,775,65"/>
+			<title>Asia → India: 29230314</title>
+		</g>
+		<g>
+			<path class="st4" d="M27.5,387.8c387.5,0,387.5-97.2,775-97.2"/>
+			<title>Asia → Japan: 13513734</title>
+		</g>
+		<g>
+			<path class="st5" d="M27.5,374.7c387.5,0,387.5-118.9,775-118.9"/>
+			<title>Asia → Indonesia: 10075310</title>
+		</g>
+		<g>
+			<path class="st6" d="M27.5,354.4c387.5,0,387.5,25.2,775,25.2"/>
+			<title>Africa → Nigeria: 17578000</title>
+		</g>
+		<g>
+			<path class="st7" d="M27.5,336.2c387.5,0,387.5-4.2,775-4.2"/>
+			<title>Africa → Egypt: 15388000</title>
+		</g>
+		<g>
+			<path class="st8" d="M27.5,322.9c387.5,0,387.5-97.3,775-97.3"/>
+			<title>Africa → Democratic Republic of the Congo: 8754000</title>
+		</g>
+		<g>
+			<path class="st9" d="M27.5,314.5c387.5,0,387.5-130.6,775-130.6"/>
+			<title>Africa → Somalia: 6346000</title>
+		</g>
+		<g>
+			<path class="st10" d="M27.5,308.2c387.5,0,387.5-146.7,775-146.7"/>
+			<title>Africa → Sudan: 5172000</title>
+		</g>
+		<g>
+			<path class="st11" d="M27.5,302.7C415,302.7,415,151,802.5,151"/>
+			<title>Africa → Angola: 4772000</title>
+		</g>
+		<g>
+			<path class="st12" d="M27.5,297.6c387.5,0,387.5-166.7,775-166.7"/>
+			<title>Africa → Tanzania: 4364541</title>
+		</g>
+		<g>
+			<path class="st13" d="M27.5,292.9c387.5,0,387.5-171.7,775-171.7"/>
+			<title>Africa → Ivory Coast: 4125000</title>
+		</g>
+		<g>
+			<path class="st14" d="M27.5,288.6c387.5,0,387.5-176.7,775-176.7"/>
+			<title>Africa → South Africa: 3670000</title>
+		</g>
+		<g>
+			<path class="st15" d="M27.5,254.4c387.5,0,387.5,56.4,775,56.4"/>
+			<title>Europe → Turkey: 14025646</title>
+		</g>
+		<g>
+			<path class="st16" d="M27.5,271.9c387.5,0,387.5,83.4,775,83.4"/>
+			<title>Europe → Russia: 17555816</title>
+		</g>
+		<g>
+			<path class="st17" d="M27.5,241.9c387.5,0,387.5-30.9,775-30.9"/>
+			<title>Europe → United Kingdom: 8673713</title>
+		</g>
+		<g>
+			<path class="st18" d="M27.5,235.1c387.5,0,387.5-132.2,775-132.2"/>
+			<title>Europe → Germany: 3562166</title>
+		</g>
+		<g>
+			<path class="st19" d="M27.5,231.4c387.5,0,387.5-145.9,775-145.9"/>
+			<title>Europe → Spain: 3165235</title>
+		</g>
+		<g>
+			<path class="st20" d="M27.5,228C415,228,415,68.8,802.5,68.8"/>
+			<title>Europe → Ukraine: 2909491</title>
+		</g>
+		<g>
+			<path class="st21" d="M27.5,224.8c387.5,0,387.5-164.3,775-164.3"/>
+			<title>Europe → Italy: 2874038</title>
+		</g>
+		<g>
+			<path class="st22" d="M27.5,222C415,222,415,52.7,802.5,52.7"/>
+			<title>Europe → France: 2241346</title>
+		</g>
+		<g>
+			<path class="st23" d="M27.5,219.7c387.5,0,387.5-181.6,775-181.6"/>
+			<title>Europe → Belarus: 1949400</title>
+		</g>
+		<g>
+			<path class="st24" d="M27.5,120.3c387.5,0,387.5,152,775,152"/>
+			<title>North America → Mexico: 10596331</title>
+		</g>
+		<g>
+			<path class="st25" d="M27.5,136.7C415,136.7,415,405,802.5,405"/>
+			<title>North America → United States: 19106500</title>
+		</g>
+		<g>
+			<path class="st26" d="M27.5,111.9c387.5,0,387.5,28.9,775,28.9"/>
+			<title>North America → Canada: 4579532</title>
+		</g>
+		<g>
+			<path class="st27" d="M27.5,108.2c387.5,0,387.5-62.8,775-62.8"/>
+			<title>North America → Cuba: 2117625</title>
+		</g>
+		<g>
+			<path class="st28" d="M27.5,198.7c387.5,0,387.5,267.6,775,267.6"/>
+			<title>South America → Brazil: 26871561</title>
+		</g>
+		<g>
+			<path class="st29" d="M27.5,179c387.5,0,387.5,61.4,775,61.4"/>
+			<title>South America → Peru: 8894412</title>
+		</g>
+		<g>
+			<path class="st30" d="M27.5,169.7c387.5,0,387.5,27.1,775,27.1"/>
+			<title>South America → Colombia: 7862277</title>
+		</g>
+		<g>
+			<path class="st31" d="M27.5,162.3c387.5,0,387.5,10.1,775,10.1"/>
+			<title>South America → Chile: 5507282</title>
+		</g>
+		<g>
+			<path class="st32" d="M27.5,157.4c387.5,0,387.5-63.4,775-63.4"/>
+			<title>South America → Venezuela: 3289886</title>
+		</g>
+		<g>
+			<path class="st33" d="M27.5,153.9c387.5,0,387.5-76.9,775-76.9"/>
+			<title>South America → Argentina: 3054267</title>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 762.5033 39.3931)" class="st34 st35 st36">Belarus</text>
+		<text transform="matrix(1 0 0 1 773.1179 47.332)" class="st34 st35 st36">Cuba</text>
+		<text transform="matrix(1 0 0 1 765.707 53.9816)" class="st34 st35 st36">France</text>
+		<text transform="matrix(1 0 0 1 778.4902 62.3325)" class="st34 st35 st36">Italy</text>
+		<text transform="matrix(1 0 0 1 761.8154 70.3063)" class="st34 st35 st36">Ukraine</text>
+		<text transform="matrix(1 0 0 1 751.983 78.7889)" class="st34 st35 st36">Argentina</text>
+		<text transform="matrix(1 0 0 1 771.2734 87.1204)" class="st34 st35 st36">Spain</text>
+		<text transform="matrix(1 0 0 1 750.2552 96.0715)" class="st34 st35 st36">Venezuela</text>
+		<text transform="matrix(1 0 0 1 755.1455 104.6448)" class="st34 st35 st36">Germany</text>
+		<text transform="matrix(1 0 0 1 739.8815 114.0851)" class="st34 st35 st36">South Africa</text>
+		<text transform="matrix(1 0 0 1 744.0371 123.5308)" class="st34 st35 st36">Ivory Coast</text>
+		<text transform="matrix(1 0 0 1 756.2248 133.3174)" class="st34 st35 st36">Tanzania</text>
+		<text transform="matrix(1 0 0 1 762.2623 142.9923)" class="st34 st35 st36">Canada</text>
+		<text transform="matrix(1 0 0 1 764.384 153.7561)" class="st34 st35 st36">Angola</text>
+		<text transform="matrix(1 0 0 1 768.2873 164.2737)" class="st34 st35 st36">Sudan</text>
+		<text transform="matrix(1 0 0 1 774.0518 175.0632)" class="st34 st35 st36">Chile</text>
+		<text transform="matrix(1 0 0 1 760.609 186.48)" class="st34 st35 st36">Somalia</text>
+		<text transform="matrix(1 0 0 1 752.9434 199.9276)" class="st34 st35 st36">Colombia</text>
+		<text transform="matrix(1 0 0 1 721.2881 213.6555)" class="st34 st35 st36">United Kingdom</text>
+		<text transform="matrix(1 0 0 1 634.484 228.3441)" class="st34 st35 st36">Democratic Republic of the Congo</text>
+		<text transform="matrix(1 0 0 1 776.2686 243.8881)" class="st34 st35 st36">Peru</text>
+		<text transform="matrix(1 0 0 1 751.9016 259.1809)" class="st34 st35 st36">Indonesia</text>
+		<text transform="matrix(1 0 0 1 764.8279 275.4474)" class="st34 st35 st36">Mexico</text>
+		<text transform="matrix(1 0 0 1 769.5986 292.7182)" class="st34 st35 st36">Japan</text>
+		<text transform="matrix(1 0 0 1 766.4492 313.7054)" class="st34 st35 st36">Turkey</text>
+		<text transform="matrix(1 0 0 1 770.7217 334.0669)" class="st34 st35 st36">Egypt</text>
+		<text transform="matrix(1 0 0 1 765.9363 357.2868)" class="st34 st35 st36">Russia</text>
+		<text transform="matrix(1 0 0 1 764.5986 382.1454)" class="st34 st35 st36">Nigeria</text>
+		<text transform="matrix(1 0 0 1 735.0573 407.1973)" class="st34 st35 st36">United States</text>
+		<text transform="matrix(1 0 0 1 757.1379 436.6698)" class="st34 st35 st36">Pakistan</text>
+		<text transform="matrix(1 0 0 1 771.4979 468.6747)" class="st34 st35 st36">Brazil</text>
+		<text transform="matrix(1 0 0 1 775.165 505.4124)" class="st34 st35 st36">India</text>
+		<text transform="matrix(1 0 0 1 31.5 129.627)" class="st34 st35 st36">North America</text>
+		<text transform="matrix(1 0 0 1 31.5 186.3757)" class="st34 st35 st36">South America</text>
+		<text transform="matrix(1 0 0 1 30.5828 253.7837)" class="st34 st35 st36">Europe</text>
+		<text transform="matrix(1 0 0 1 31.0414 328.4506)" class="st34 st35 st36">Africa</text>
+		<text transform="matrix(1 0 0 1 770.7217 572.5049)" class="st34 st35 st36">China</text>
+		<text transform="matrix(1 0 0 1 31.5 457.5597)" class="st34 st35 st36">Asia</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 761.8154 22.5669)" class="st34 st35 st37">Country</text>
+		<text transform="matrix(1 0 0 1 22.5 99.3312)" class="st34 st35 st37">Continent</text>
+	</g>
+</g>
+</svg>
